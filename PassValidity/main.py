@@ -16,7 +16,7 @@ if __name__ == "__main__":
         a = check_pass_validity(string)
 
         if a==None:
-            print("Passwords should be >= 8 characters long, a-z, A-Z, 0-9, #%$@, and end with a nuber")
+            print("Passwords should be >= 8 characters long, a-z, A-Z, 0-9, #%$@, and end with a number")
         else:
             print("Password is accepted")
             break

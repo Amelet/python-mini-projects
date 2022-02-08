@@ -21,4 +21,5 @@ Scraping https://news.ycombinator.com/ website to retrieve links to the news tha
 
 
 **Project 4: Check pass validity (length and used characters) + unittest of the code**
+Passwords should be >= 8 characters long, a-z, A-Z, 0-9, #%$@, and end with a number
 
